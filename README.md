@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Myles and I'm a Frontend Engineer.
+
 ![Dragon Ball Z trunks slashing sword](./trunks-slash.gif)
 
 <!--
