@@ -2,6 +2,12 @@
 
 My name is Myles and I'm a Frontend Engineer.
 
+```javascript
+while(true) {
+  trunks.swordSlash();
+}
+```
+
 ![Dragon Ball Z trunks slashing sword](./trunks-slash.gif)
 
 👆🏽 While I think of interestings things to list above, you can stare at Trunks
