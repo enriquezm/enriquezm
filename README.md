@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring UI engineering and interaction design.
-- 💼 &nbsp; Working as a Frontend Engineer at [Slickdeals](https://slickdeals.net/).
+- 💼 &nbsp; Working as a Senior Frontend Engineer at [Slickdeals](https://slickdeals.net/).
 - ✍️ &nbsp; Messing with UI animation and blog writing as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
