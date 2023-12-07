@@ -4,7 +4,7 @@
 
 - 🤔 Exploring UI engineering and interaction design.
 - 💼 Senior Frontend Engineer at [Slickdeals](https://slickdeals.net/).
-- ✍️ Hobbies: UI animation and blog writing.
+- ✍️ Hobbies: Mountain biking and chess (atm).
 
 ## 🛠 &nbsp;Tech Stack
 
