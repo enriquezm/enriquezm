@@ -2,11 +2,11 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-- 🤔 Exploring UI engineering and interaction design.
+- 🤔 Exploring UI engineering and interaction design, interested in API design/consumption.
 - 💼 Senior Frontend Engineer at [Slickdeals](https://slickdeals.net/).
 - ✍️ Hobbies: Mountain biking and chess (atm).
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack I'm familiar with
 
 ### Frontend
 
@@ -23,6 +23,7 @@
 - 🛢 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - 🛢 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
 - 🛢 ![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)
+- 🛢 (currently learning)![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 ### Tools
 
@@ -30,6 +31,7 @@
 - ⚙️ ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - ⚙️ ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - ⚙️ ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- ⚙️ ![MongoDB Compass](https://img.shields.io/badge/-MongoDB%20Compass-333333?style=flat&logo=mongodb)
 
 ## 🤝🏻 &nbsp;Connect with Me
 
