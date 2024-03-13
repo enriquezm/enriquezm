@@ -6,7 +6,7 @@
 - 💼 Senior Frontend Engineer at [Slickdeals](https://slickdeals.net/).
 - ✍️ Hobbies: Mountain biking and chess (atm).
 
-## 🛠 &nbsp;Tech Stack I'm familiar with
+## 🛠 &nbsp;Tech Stack
 
 ### Frontend
 
@@ -16,14 +16,15 @@
 - 💻 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs)
 - 💻 ![Vite](https://img.shields.io/badge/vite-35495E?style=flat&logo=vite)
 - 💻 ![Vitest](https://img.shields.io/badge/vitest-35495E?style=flat&logo=vitest)
-- 💻 ![NUXTjs](https://img.shields.io/badge/-NUXTjs-success)
+- 💻 `(currently learning)` ![NUXTjs](https://img.shields.io/badge/-NUXTjs-success)
+- 💻 `(currently learning)` ![Reactjs](https://img.shields.io/badge/reactjs-333333?style=flat&logo=reactjs)
 
 ### Backend
 
 - 🛢 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - 🛢 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
 - 🛢 ![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)
-- 🛢 (currently learning)![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- 🛢 `(currently learning)` ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 ### Tools
 
