@@ -3,7 +3,7 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 - 🤔 Exploring UI engineering and interaction design, interested in API design/consumption.
-- 💼 Senior Frontend Engineer at [Slickdeals](https://slickdeals.net/).
+- 💼 Senior Fullstack Engineer at [Slickdeals](https://slickdeals.net/).
 - ✍️ Hobbies: Mountain biking and chess (atm).
 
 ## 🛠 &nbsp;Tech Stack
@@ -24,6 +24,7 @@
 - 🛢 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - 🛢 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
 - 🛢 ![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)
+- 🛢 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
 - 🛢 `(currently learning)` ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 ### Tools
